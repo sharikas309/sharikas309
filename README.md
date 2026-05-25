@@ -12,6 +12,17 @@
 
 ---
 
+# 👀 Visitor Counter
+
+<p align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=sharikas309&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+
 ## 🌟 About Me
 
 💡 Focused on transforming **passion into profession**  
@@ -105,15 +116,6 @@
 
 
 
-# 👀 Visitor Counter
-
-<p align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=sharikas309&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
 
 # 💻 LeetCode Streak
 
